@@ -5,7 +5,7 @@ channel_targets:
 dlib_variant_str:
 - cpu
 dlib_variant_version:
-- 1.1.0
+- 1.2.0
 docker_image:
 - condaforge/linux-anvil-comp7
 zip_keys:

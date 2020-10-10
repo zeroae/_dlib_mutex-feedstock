@@ -10,8 +10,8 @@ Feedstock license: [BSD-3-Clause](https://github.com/zeroae/_dlib_mutex-feedstoc
 Summary: The dlib mutex package.
 
 We support different variants of darknet:
-`cpu`, which is compiled with CPU/AVX only sppport
-`cuda`, which is compiled with CUDA;
+`cpu`(default), which is compiled with CPU only sppport
+`cuda`, which is compiled with CUDA and CPU suppor
 
 
 Current build status
