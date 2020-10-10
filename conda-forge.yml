@@ -1,0 +1,16 @@
+# documentation: https://conda-forge.org/docs/maintainer/conda_forge_yml.html
+channels:
+  sources:
+  - zeroae
+  - conda-forge
+  - defaults
+  targets:
+  - [zeroae, main]
+azure:
+  user_or_org: zeroae
+  build_id: 1
+  project_name: feedstock-builds
+  project_id: c1db133c-bac8-427a-b277-9a6049151782
+github:
+  user_or_org: zeroae
+  branch: master
